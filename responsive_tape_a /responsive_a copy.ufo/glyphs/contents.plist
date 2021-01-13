@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>narrow-bold</key>
+    <string>narrow-bold.glif</string>
+    <key>narrow-bold.2</key>
+    <string>narrow-bold.2.glif</string>
+    <key>narrow-thin</key>
+    <string>narrow-thin.glif</string>
+    <key>narrow-thin.2</key>
+    <string>narrow-thin.2.glif</string>
+    <key>wide-bold</key>
+    <string>wide-bold.glif</string>
+    <key>wide-bold.2</key>
+    <string>wide-bold.2.glif</string>
+    <key>wide-thin</key>
+    <string>wide-thin.glif</string>
+    <key>wide-thin.2</key>
+    <string>wide-thin.2.glif</string>
+  </dict>
+</plist>

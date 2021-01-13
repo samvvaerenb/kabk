@@ -1,0 +1,50 @@
+body {
+    background-color: blue; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+    font-family: Helvetica, sans-serif; 
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 160px; 
+    
+    background-color: ; 
+}
+
+li a {
+    text-decoration: none; 
+    color: yellow;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: yellow; 
+}
+
+.active {
+    background-color: yellow
+}
+
+a:link{
+    color: purple; 
+    text-decoration: none; 
+}
+
+a:visited{
+    color: yellow; 
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellow; 
+    text-decoration: none;
+}
+
+a:active {
+    color: yellow; 
+    text-decoration: none;
+}
+
